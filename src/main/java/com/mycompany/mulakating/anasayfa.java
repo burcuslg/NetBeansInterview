@@ -50,7 +50,7 @@ public class anasayfa extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
         jLabel2.setText("                                                               Online Mülakat Uygulaması");
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Burcu\\Desktop\\1_WzhqULSZVSXeXi_waNtfPQ.jpeg")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\Burcu\\1_WzhqULSZVSXeXi_waNtfPQ.jpeg")); // NOI18N
 
         jLabel4.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
         jLabel4.setText("Created By Burcu Solgun");
